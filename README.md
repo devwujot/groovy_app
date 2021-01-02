@@ -21,6 +21,6 @@
 - Room
 - LiveData
 - Coroutines
-- Coroutines Flow
+- Coroutines Flow
 
 ![Screenshot](final_architecture.png)
