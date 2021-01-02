@@ -15,12 +15,12 @@
 - Unit Test -> JUnit, Mockito
 - Repository Pattern
 - SOLID
-- Hilt
-- MVVM
-- Retrofit
-- Room
-- LiveData
-- Coroutines
+- Hilt
+- MVVM
+- Retrofit
+- Room
+- LiveData
+- Coroutines
 - Coroutines Flow
 
 ![Screenshot](final_architecture.png)
